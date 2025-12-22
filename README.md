@@ -30,7 +30,7 @@ Spring Security
 
 Hibernate
 
-MySQL (or any JPA-supported database)
+MySQL
 
 Maven
 
